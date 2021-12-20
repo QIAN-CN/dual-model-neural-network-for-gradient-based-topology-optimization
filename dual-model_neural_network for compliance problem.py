@@ -346,4 +346,3 @@ def SecondOrderOptimizer():
 
 
 SecondOrderOptimizer()
-losses = []
